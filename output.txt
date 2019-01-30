@@ -1,0 +1,30 @@
+Total is 796
+Count is 8
+Average is 99.5
+
+
+Line 1 : 1 3 5 7 9
+ 
+	Total is 25
+	Count is 5
+	Average is 5.0
+Line 2 : 2 12 16 5
+ 
+	Total is 35
+	Count is 4
+	Average is 8.75
+Line 3 : 3
+ 
+	Total is 3
+	Count is 1
+	Average is 3.0
+Line 4 : 15 29 65 2 50 23 11
+ 
+	Total is 195
+	Count is 7
+	Average is 27.857142857142858
+Line 5 : 1 2 3 4 5 6
+ 
+	Total is 21
+	Count is 6
+	Average is 3.5
